@@ -1,0 +1,14 @@
+body{
+    background-color: brown;
+    color: bisque;
+}
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+#camera,#result{
+    border:2px dashed #B5651e;
+    width:350px;
+    height: 300px;
+    border-radius: 20px;
+}
